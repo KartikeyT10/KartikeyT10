@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi! My name is Kartikey Tiwari currently a pre-final year Computer Science & Engineering student at VIT Bhopal, passionate about DSA, software development, and emerging technologies.
 🔭 I’m currently working on Building personal projects in C++, Python and Web Development (portfolio, apps, tools)<br>👯 I’m looking to collaborate on Open-source projects that involve Data Structures & Algorithms, Machine Learning, and Full-Stack Web Development<br>🌱 I’m currently learning Advanced algorithms, Next.js, Django, and Machine Learning<br>💬 Ask me about My experiences with college-level projects, Git workflows, and solving problems on competitive platforms
 
 
