@@ -114,41 +114,44 @@ Location         Delhi, India
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Project Cards
+## Project Highlights
 
-<div align="center">
+| Project | Focus | Stack | Links |
+| --- | --- | --- | --- |
+| GitHub Dev Card Generator | Public developer card generator with live Vercel deployment | Python, FastAPI, JavaScript, Gemini API | [Repo](https://github.com/KartikeyT10/github-card-generator) / [Live](https://github-card-generator-one.vercel.app) |
+| DSA Practice | C++ solutions and algorithm practice archive | C++, Data Structures, Algorithms | [Repo](https://github.com/KartikeyT10/DSA-Practice) |
+| AgricultureSmartSuite | Smart agriculture assistance and automation workflows | Python, Applied AI, Automation | [Repo](https://github.com/KartikeyT10/AgricultureSmartSuite) |
+| CollabSheet | Collaborative spreadsheet-style product experiment | TypeScript, Web Apps, Collaboration | [Repo](https://github.com/KartikeyT10/CollabSheet) |
 
-<a href="https://github.com/KartikeyT10/github-card-generator">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyT10&repo=github-card-generator&theme=github_dark&hide_border=true&border_radius=10" alt="github-card-generator repository card" />
-</a>
-<a href="https://github.com/KartikeyT10/DSA-Practice">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyT10&repo=DSA-Practice&theme=github_dark&hide_border=true&border_radius=10" alt="DSA-Practice repository card" />
-</a>
-<a href="https://github.com/KartikeyT10/AgricultureSmartSuite">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyT10&repo=AgricultureSmartSuite&theme=github_dark&hide_border=true&border_radius=10" alt="AgricultureSmartSuite repository card" />
-</a>
-<a href="https://github.com/KartikeyT10/CollabSheet">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyT10&repo=CollabSheet&theme=github_dark&hide_border=true&border_radius=10" alt="CollabSheet repository card" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/KartikeyT10/github-card-generator">
+    <img src="https://img.shields.io/badge/GitHub%20Dev%20Card%20Generator-Live%20Project-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="GitHub Dev Card Generator" />
+  </a>
+  <a href="https://github.com/KartikeyT10/DSA-Practice">
+    <img src="https://img.shields.io/badge/DSA%20Practice-C%2B%2B%20Archive-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA Practice" />
+  </a>
+  <a href="https://github.com/KartikeyT10/AgricultureSmartSuite">
+    <img src="https://img.shields.io/badge/AgricultureSmartSuite-AI%20Workflow-22C55E?style=for-the-badge&logo=python&logoColor=white" alt="AgricultureSmartSuite" />
+  </a>
+  <a href="https://github.com/KartikeyT10/CollabSheet">
+    <img src="https://img.shields.io/badge/CollabSheet-TypeScript%20Tool-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="CollabSheet" />
+  </a>
+</p>
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-16-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Primary%20Languages-C%2B%2B%20%7C%20Python%20%7C%20JavaScript%20%7C%20TypeScript-22C55E?style=for-the-badge" alt="Primary languages" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-8B5CF6?style=for-the-badge" alt="Focus area" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyT10&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=KartikeyT10&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyT10&theme=github-compact&hide_border=true&radius=10" alt="GitHub contribution activity graph" />
-
-</div>
+| Area | Active signal |
+| --- | --- |
+| Repositories | Building across AI tools, healthcare/agri-tech ideas, collaboration apps, portfolio work, and DSA practice |
+| Languages | C++, Python, JavaScript, TypeScript, HTML/CSS |
+| Recent build | Deployed `github-card-generator` to Vercel with FastAPI backend |
+| Coding practice | Active on LeetCode and Codeforces for algorithmic problem solving |
 
 ## Coding Profiles
 
