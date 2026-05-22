@@ -141,7 +141,7 @@ Location         Delhi, India
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-16-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repos-13-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
   <img src="https://img.shields.io/badge/Primary%20Languages-C%2B%2B%20%7C%20Python%20%7C%20JavaScript%20%7C%20TypeScript-22C55E?style=for-the-badge" alt="Primary languages" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-8B5CF6?style=for-the-badge" alt="Focus area" />
 </p>
