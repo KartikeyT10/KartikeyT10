@@ -25,7 +25,7 @@
 
 ## Snapshot
 
-I am a pre-final year Computer Science and Engineering student at VIT Bhopal University, focused on building practical software across full-stack development, AI-assisted applications, and problem-solving systems. I like projects that feel useful: tools, dashboards, automation, healthcare/agri-tech ideas, and clean APIs that make products easier to ship.
+I am a final year Computer Science and Engineering student at VIT Bhopal University, focused on building practical software across full-stack development, AI-assisted applications, and problem-solving systems. I like projects that feel useful: tools, dashboards, automation, healthcare/agri-tech ideas, and clean APIs that make products easier to ship.
 
 ```text
 Current focus    Full-stack apps, FastAPI backends, DSA practice, applied AI
